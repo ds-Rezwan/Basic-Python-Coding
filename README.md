@@ -4,7 +4,7 @@ Variables and Data Types:
 
 python
 Copy code
-# Integer
+# Integer 
 x = 5
 
 # Float
